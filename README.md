@@ -1,5 +1,8 @@
 # AWS-SageMaker
+I have followed the below steps for creating my first notebook instance with AWS SageMaker:
+1. ```After creating a free tier account in AWS, search "SageMaker" in the search bar```
 ![image](https://user-images.githubusercontent.com/75041273/136743250-3f89e2d3-55a8-4126-bcfa-67c2983f31cc.png)
+2. 
 ![image](https://user-images.githubusercontent.com/75041273/136743454-cf4ab875-65d1-445d-8f29-fd57f05004f5.png)
 ![image](https://user-images.githubusercontent.com/75041273/136743624-be852a4c-1ced-4b08-8c55-999bfeeaba95.png)
 ![image](https://user-images.githubusercontent.com/75041273/136744263-7fce9ebb-65ec-47e0-b5d7-d2b2d90be158.png)
