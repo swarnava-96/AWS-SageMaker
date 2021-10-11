@@ -1,4 +1,5 @@
-# AWS-SageMaker
+# Getting started with AWS SageMaker
+
 I have followed the below steps for creating my first notebook instance with AWS SageMaker:
 
 ### 1. After creating a free tier account in AWS, search "SageMaker" in the search bar.
@@ -31,7 +32,7 @@ I have followed the below steps for creating my first notebook instance with AWS
 ### 10. Now, we are good to go!
 ![image](https://user-images.githubusercontent.com/75041273/136746613-6eb642d7-9f43-43d5-9f16-183e9c0b45c4.png)
 
-## Creating a s3 bucket
+# Creating a s3 bucket
 I have followed the below steps for creating my first s3 bucket:
 ### 1. Search "s3"
 ![image](https://user-images.githubusercontent.com/75041273/136767651-9b2fed10-43c9-48e9-b9b5-1823b059da2e.png)
